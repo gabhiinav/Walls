@@ -1,4 +1,4 @@
-# Wall
+# Walls
 
 ![walls](https://github.com/gabhiinav/Walls/assets/91845898/5192a96e-d10a-4390-a3da-8f3fa0cd0be0)
 
