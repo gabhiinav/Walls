@@ -9,7 +9,7 @@ Tech Stack:
 - Reanimated
 - Pixabay API
 
-### Setup .env.local
+### Setup .env
 
 ```js
 PIXABAY_API_KEY=
