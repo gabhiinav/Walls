@@ -1,6 +1,6 @@
 # Wall
 
-![Walls](https://github.com/gabhiinav/Walls/assets/91845898/bc3f3cf8-380b-469e-89c3-868a3d535ad9)
+![walls](https://github.com/gabhiinav/Walls/assets/91845898/5192a96e-d10a-4390-a3da-8f3fa0cd0be0)
 
 Tech Stack:
 
